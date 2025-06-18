@@ -2,7 +2,7 @@
   "name": "tarot-reading-app",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://rohika.github.io/tarot-reading-app",
+  "homepage": "https://motith.github.io/3select",
   "dependencies": {
     "@emotion/react": "^11.11.3",
     "@emotion/styled": "^11.11.0",
